@@ -1,12 +1,10 @@
 # web
 virtual machine install linux---40gb
 hard disk file type:VMDK是專門為VMWare開發，但其他虛機像Sun xVM，QEMU，VirtualBox，SUSE Studio和.NET DiscUtils也都支持這種格式。
-
 ---------------------------------------------------------------
-btrfs
 total:40gb
-efi:550mb
-/:34207mb
+efi:550mb FAT32 
+/:34207mb btrfs    ***the rest of space 
 swap: 8192mb
 ---------------------------------------------------------------
 
