@@ -25,14 +25,10 @@ swap: 8192mb
 5)debian
 
 
-
+sudo apt install cmake vim gcc g++ clion
 
 install LAMP
 sudo apt install install apache2
-
-
-
-
 
 
 apache config
