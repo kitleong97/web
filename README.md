@@ -27,7 +27,7 @@ swap: 8192mb
 
 sudo apt install cmake vim gcc g++ clion
 
-install LAMP
+install LAMP  
 sudo apt install install apache2
 
 
